@@ -99,11 +99,23 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
     }
   }, [authUser, profile, isOpen]);
 
+  // Genuine Developer Information
+  const devName = profile?.name || 'Abhinav Aryan';
+  const devEmail = profile?.email || 'abhinav.aryan0802@gmail.com';
+  const devGithub = profile?.github || 'https://github.com/07abhi9av';
+  const devLinkedin = profile?.linkedin || 'https://linkedin.com/in/abhinavaryan07';
+  const devTitle = profile?.title || 'DevOps & Site Reliability / Platform Engineer';
+  const devCompany = profile?.currentCompany || 'London Stock Exchange Group (LSEG)';
+  const devBio =
+    profile?.summary ||
+    'DevOps / Site Reliability Engineer with production experience managing Amazon EKS clusters, CI/CD automation, cloud infrastructure, and security hardening at London Stock Exchange Group. Creator of in.gress to bridge engineers directly with verified employer ATS portals.';
+  const devInitials = 'AA';
+
   if (!isOpen) return null;
 
   const handleCopyEmail = (e: React.MouseEvent) => {
     e.stopPropagation();
-    navigator.clipboard.writeText('abhinav.sharma@ingress.dev');
+    navigator.clipboard.writeText(devEmail);
     setCopiedEmail(true);
     setTimeout(() => setCopiedEmail(false), 2000);
   };
@@ -791,7 +803,7 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                         type="text"
                         value={name}
                         onChange={(e) => setName(e.target.value)}
-                        placeholder="e.g. Abhinav Sharma"
+                        placeholder="e.g. Abhinav Aryan"
                         className="glass-input"
                         style={{ boxSizing: 'border-box' }}
                       />
@@ -892,10 +904,10 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                     </button>
                   </div>
                   <div style={{ fontSize: '12.5px', fontFamily: 'var(--font-mono)', color: 'var(--accent-blue)' }}>
-                    abhinav.sharma@ingress.dev
+                    {devEmail}
                   </div>
                   <a
-                    href="mailto:abhinav.sharma@ingress.dev?subject=Hello%20from%20in.gress%20Platform"
+                    href={`mailto:${devEmail}?subject=Hello%20from%20in.gress%20Platform`}
                     className="btn-glass"
                     style={{
                       fontSize: '11.5px',
@@ -930,7 +942,7 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                     Connect for engineering networking, distributed systems discussions, and updates.
                   </div>
                   <a
-                    href="https://linkedin.com"
+                    href={devLinkedin}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-glass"
@@ -971,7 +983,7 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                     Explore open-source repositories, developer tools, and contributions.
                   </div>
                   <a
-                    href="https://github.com"
+                    href={devGithub}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-glass"
@@ -1068,12 +1080,12 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                     boxShadow: '0 8px 24px rgba(0, 245, 212, 0.3)',
                   }}
                 >
-                  AS
+                  {devInitials}
                 </div>
                 <div style={{ flex: 1, minWidth: '240px' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                     <h4 style={{ margin: 0, fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)' }}>
-                      Abhinav Sharma
+                      {devName}
                     </h4>
                     <span
                       style={{
@@ -1090,10 +1102,10 @@ export const DevContactModal: React.FC<DevContactModalProps> = ({
                     </span>
                   </div>
                   <div style={{ fontSize: '12.5px', color: 'var(--accent-blue)', marginTop: '2px', fontWeight: 600 }}>
-                    Distributed Systems & Cloud Infrastructure Engineer
+                    {devTitle} · {devCompany}
                   </div>
                   <p style={{ margin: '8px 0 0', fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.6 }}>
-                    Passionate about high-throughput platform engineering, developer experience, and building transparent software that removes bureaucratic friction from career growth.
+                    {devBio}
                   </p>
                 </div>
               </div>

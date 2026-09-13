@@ -20,7 +20,7 @@ export const defaultProfile: CandidateProfile = {
   phone: '+91 77668 34875',
   location: 'Bengaluru, Karnataka, India',
   linkedin: 'https://linkedin.com/in/abhinavaryan07',
-  github: 'https://github.com/abhinavaryan07',
+  github: 'https://github.com/07abhi9av',
   summary:
     'DevOps / Site Reliability Engineer with production experience managing Amazon EKS clusters, CI/CD automation, cloud infrastructure-as-code, and security hardening at London Stock Exchange Group. Proficient in Linux systems administration, Python, Bash, Terraform, and AWS, with hands-on ownership of high-availability Kubernetes environments, traffic failover, DDoS mitigation, and observability pipelines. Building toward integrating LLM-driven automation into incident triage, log analysis, and runbook generation to reduce operational toil at scale.',
   skills: [

@@ -13,6 +13,7 @@ import {
   AlertCircle,
   CheckCircle2,
   KeyRound,
+  ChevronDown,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import {
@@ -44,7 +45,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [fullName, setFullName] = useState('');
-  const [targetRole, setTargetRole] = useState('');
+  const [targetRole, setTargetRole] = useState('DevOps / SRE');
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
   const [isForgotPassword, setIsForgotPassword] = useState(false);
@@ -731,16 +732,15 @@ export const AuthModal: React.FC<AuthModalProps> = ({
                       width: '14px',
                       height: '14px',
                       color: 'var(--text-tertiary)',
+                      pointerEvents: 'none',
                     }}
                   />
-                  <input
-                    type="text"
+                  <select
                     value={targetRole}
                     onChange={(e) => setTargetRole(e.target.value)}
-                    placeholder="DevOps / SRE"
                     style={{
                       width: '100%',
-                      padding: '10px 12px 10px 32px',
+                      padding: '10px 30px 10px 32px',
                       borderRadius: '10px',
                       background: 'rgba(255, 255, 255, 0.05)',
                       border: '1px solid rgba(255, 255, 255, 0.12)',
@@ -748,6 +748,51 @@ export const AuthModal: React.FC<AuthModalProps> = ({
                       fontSize: '13px',
                       outline: 'none',
                       boxSizing: 'border-box',
+                      cursor: 'pointer',
+                      appearance: 'none',
+                    }}
+                  >
+                    <option value="DevOps / SRE" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      DevOps / SRE
+                    </option>
+                    <option value="Platform & Infrastructure Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Platform & Infrastructure Engineer
+                    </option>
+                    <option value="Cloud Systems Architect" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Cloud Systems Architect
+                    </option>
+                    <option value="Backend / Distributed Systems" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Backend / Distributed Systems
+                    </option>
+                    <option value="Full-Stack Software Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Full-Stack Software Engineer
+                    </option>
+                    <option value="Data Engineer / Big Data Platform" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Data Engineer / Big Data Platform
+                    </option>
+                    <option value="AI / Machine Learning / LLM Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      AI / Machine Learning / LLM Engineer
+                    </option>
+                    <option value="Security & DevSecOps Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Security & DevSecOps Engineer
+                    </option>
+                    <option value="Production / Linux Systems Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Production / Linux Systems Engineer
+                    </option>
+                    <option value="Frontend / UI Systems Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>
+                      Frontend / UI Systems Engineer
+                    </option>
+                  </select>
+                  <ChevronDown
+                    style={{
+                      position: 'absolute',
+                      right: '10px',
+                      top: '50%',
+                      transform: 'translateY(-50%)',
+                      width: '14px',
+                      height: '14px',
+                      color: 'var(--text-tertiary)',
+                      pointerEvents: 'none',
                     }}
                   />
                 </div>

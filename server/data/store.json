@@ -3,11 +3,11 @@
     "name": "Abhinav Aryan",
     "title": "Machine Learning / AI Systems Engineer",
     "currentCompany": "London Stock Exchange Group (LSEG)",
-    "email": "demo@ingress.dev",
+    "email": "abhinav.aryan0802@gmail.com",
     "phone": "+91 77668 34875",
     "location": "Bengaluru, India",
     "linkedin": "https://linkedin.com/in/abhinavaryan07",
-    "github": "https://github.com/abhinavaryan07",
+    "github": "https://github.com/07abhi9av",
     "summary": "AI/ML Engineer specializing in foundation models, LLMs, and RAG",
     "skills": [
       "Python",
@@ -22279,6 +22279,22 @@
   ],
   "telemetry": [
     {
+      "id": "tel-1789298497072-6dxa",
+      "timestamp": "2026-09-13T11:21:37.072Z",
+      "type": "VECTOR_MATCH",
+      "company": "AI ATS Audit Engine",
+      "jobTitle": "ATS Score: 62/100 (C)",
+      "message": "Completed 6-pillar ATS evaluation. Verdict: High Rejection Risk. Significant ATS parsing or keyword gaps detected. Immediate formatting and keyw..."
+    },
+    {
+      "id": "tel-1789298497052-g3x6",
+      "timestamp": "2026-09-13T11:21:37.052Z",
+      "type": "VECTOR_MATCH",
+      "company": "AI ATS Audit Engine",
+      "jobTitle": "ATS Score: 62/100 (C)",
+      "message": "Completed 6-pillar ATS evaluation. Verdict: High Rejection Risk. Significant ATS parsing or keyword gaps detected. Immediate formatting and keyw..."
+    },
+    {
       "id": "tel-1789294803944-v9jf",
       "timestamp": "2026-09-13T10:20:03.944Z",
       "type": "VECTOR_MATCH",
@@ -23857,22 +23873,6 @@
     {
       "id": "tel-1789242005604-a8p7",
       "timestamp": "2026-09-12T19:40:05.604Z",
-      "type": "VECTOR_MATCH",
-      "company": "AI ATS Audit Engine",
-      "jobTitle": "ATS Score: 70/100 (B)",
-      "message": "Completed 6-pillar ATS evaluation (ai-ml). Verdict: Moderate Candidate Match. Meets baseline requirements but lacks critical keyword density or measurab..."
-    },
-    {
-      "id": "tel-1789242005584-l12r",
-      "timestamp": "2026-09-12T19:40:05.584Z",
-      "type": "VECTOR_MATCH",
-      "company": "AI ATS Audit Engine",
-      "jobTitle": "ATS Score: 70/100 (B)",
-      "message": "Completed 6-pillar ATS evaluation (ai-ml). Verdict: Moderate Candidate Match. Meets baseline requirements but lacks critical keyword density or measurab..."
-    },
-    {
-      "id": "tel-1789241992653-23n9",
-      "timestamp": "2026-09-12T19:39:52.653Z",
       "type": "VECTOR_MATCH",
       "company": "AI ATS Audit Engine",
       "jobTitle": "ATS Score: 70/100 (B)",

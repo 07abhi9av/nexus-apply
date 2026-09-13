@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import type { CandidateProfile } from '../types';
 import {
   X,
@@ -26,6 +26,18 @@ import {
   Compass,
 } from 'lucide-react';
 import { CompanyLogo } from './CompanyLogo';
+
+const LinkedinIcon = ({ style }: { style?: React.CSSProperties }) => (
+  <svg style={style} viewBox="0 0 24 24" fill="currentColor">
+    <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.6a1.64 1.64 0 0 0-1.64 1.63 1.64 1.64 0 0 0 1.64 1.63 1.64 1.64 0 0 0 1.63-1.63A1.64 1.64 0 0 0 7.83 6.6z"/>
+  </svg>
+);
+
+const GithubIcon = ({ style }: { style?: React.CSSProperties }) => (
+  <svg style={style} viewBox="0 0 24 24" fill="currentColor">
+    <path fillRule="evenodd" clipRule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+  </svg>
+);
 
 interface ResumeProfileDrawerProps {
   isOpen: boolean;
@@ -55,6 +67,12 @@ export const ResumeProfileDrawer: React.FC<ResumeProfileDrawerProps> = ({
   if (!isOpen || !profile) return null;
 
   const [formData, setFormData] = useState<CandidateProfile>(profile);
+
+  useEffect(() => {
+    if (profile) {
+      setFormData(profile);
+    }
+  }, [profile]);
   const [activeTab, setActiveTab] = useState<TabType>('profile');
   const [savedNotice, setSavedNotice] = useState(false);
   const [copiedField, setCopiedField] = useState<string | null>(null);
@@ -382,17 +400,17 @@ export const ResumeProfileDrawer: React.FC<ResumeProfileDrawerProps> = ({
 
             {formData.linkedin && (
               <a
-                href={formData.linkedin}
+                href={formData.linkedin.startsWith('http') ? formData.linkedin : `https://${formData.linkedin}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 className="btn-glass"
                 style={{
                   fontSize: '11.5px',
                   padding: '5px 12px',
                   borderRadius: '980px',
-                  background: 'rgba(10, 132, 255, 0.08)',
-                  borderColor: 'rgba(10, 132, 255, 0.25)',
-                  color: 'var(--accent-blue)',
+                  background: 'var(--drawer-pill-bg)',
+                  borderColor: 'var(--border-subtle)',
+                  color: 'var(--text-primary)',
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '5px',
@@ -406,9 +424,9 @@ export const ResumeProfileDrawer: React.FC<ResumeProfileDrawerProps> = ({
 
             {formData.github && (
               <a
-                href={formData.github}
+                href={formData.github.startsWith('http') ? formData.github : `https://${formData.github}`}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 className="btn-glass"
                 style={{
                   fontSize: '11.5px',
@@ -657,6 +675,28 @@ export const ResumeProfileDrawer: React.FC<ResumeProfileDrawerProps> = ({
                     type="text"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+                    className="glass-input"
+                  />
+                </GlassFieldGroup>
+              </div>
+
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '14px' }}>
+                <GlassFieldGroup label="LinkedIn Profile URL" icon={<LinkedinIcon style={{ width: '12px', height: '12px', color: '#0A66C2' }} />}>
+                  <input
+                    type="text"
+                    value={formData.linkedin || ''}
+                    onChange={(e) => setFormData({ ...formData, linkedin: e.target.value })}
+                    placeholder="https://linkedin.com/in/abhinavaryan07"
+                    className="glass-input"
+                  />
+                </GlassFieldGroup>
+
+                <GlassFieldGroup label="GitHub Profile URL" icon={<GithubIcon style={{ width: '12px', height: '12px', color: 'var(--text-primary)' }} />}>
+                  <input
+                    type="text"
+                    value={formData.github || ''}
+                    onChange={(e) => setFormData({ ...formData, github: e.target.value })}
+                    placeholder="https://github.com/07abhi9av"
                     className="glass-input"
                   />
                 </GlassFieldGroup>
@@ -1050,25 +1090,61 @@ export const ResumeProfileDrawer: React.FC<ResumeProfileDrawerProps> = ({
                   <span style={{ fontSize: '11px', color: 'var(--text-tertiary)' }}>{formData.preferences.targetRoles.length} selected</span>
                 </div>
 
-                <div style={{ display: 'flex', gap: '8px', marginBottom: '10px' }}>
-                  <input
-                    type="text"
-                    placeholder="Add target role (e.g. Production Engineer)..."
-                    value={newRoleInput}
-                    onChange={(e) => setNewRoleInput(e.target.value)}
-                    onKeyDown={(e) => {
-                      if (e.key === 'Enter') {
-                        e.preventDefault();
-                        handleAddRole();
+                <div style={{ display: 'flex', gap: '8px', marginBottom: '10px', flexWrap: 'wrap' }}>
+                  <select
+                    value=""
+                    onChange={(e) => {
+                      if (e.target.value) {
+                        const r = e.target.value;
+                        if (!formData.preferences.targetRoles.includes(r)) {
+                          setFormData((prev) => ({
+                            ...prev,
+                            preferences: {
+                              ...prev.preferences,
+                              targetRoles: [...prev.preferences.targetRoles, r],
+                            },
+                          }));
+                        }
                       }
                     }}
                     className="glass-input"
-                    style={{ fontSize: '12px', padding: '6px 12px' }}
-                  />
-                  <button onClick={handleAddRole} className="btn-glass btn-blue" style={{ fontSize: '12px', padding: '6px 14px' }}>
-                    <Plus style={{ width: '13px', height: '13px' }} />
-                    <span>Add</span>
-                  </button>
+                    style={{ fontSize: '12px', padding: '6px 12px', cursor: 'pointer', flex: '1 1 200px' }}
+                  >
+                    <option value="" disabled style={{ background: '#1c1c1e', color: '#8e8e93' }}>
+                      Select role from dropdown...
+                    </option>
+                    <option value="DevOps / SRE" style={{ background: '#1c1c1e', color: '#fff' }}>DevOps / SRE</option>
+                    <option value="Platform & Infrastructure Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>Platform & Infrastructure Engineer</option>
+                    <option value="Cloud Systems Architect" style={{ background: '#1c1c1e', color: '#fff' }}>Cloud Systems Architect</option>
+                    <option value="Backend / Distributed Systems" style={{ background: '#1c1c1e', color: '#fff' }}>Backend / Distributed Systems</option>
+                    <option value="Full-Stack Software Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>Full-Stack Software Engineer</option>
+                    <option value="Data Engineer / Big Data Platform" style={{ background: '#1c1c1e', color: '#fff' }}>Data Engineer / Big Data Platform</option>
+                    <option value="AI / Machine Learning / LLM Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>AI / Machine Learning / LLM Engineer</option>
+                    <option value="Security & DevSecOps Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>Security & DevSecOps Engineer</option>
+                    <option value="Production / Linux Systems Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>Production / Linux Systems Engineer</option>
+                    <option value="Frontend / UI Systems Engineer" style={{ background: '#1c1c1e', color: '#fff' }}>Frontend / UI Systems Engineer</option>
+                  </select>
+
+                  <div style={{ display: 'flex', gap: '8px', flex: '1 1 240px' }}>
+                    <input
+                      type="text"
+                      placeholder="Or type custom role..."
+                      value={newRoleInput}
+                      onChange={(e) => setNewRoleInput(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter') {
+                          e.preventDefault();
+                          handleAddRole();
+                        }
+                      }}
+                      className="glass-input"
+                      style={{ fontSize: '12px', padding: '6px 12px', flex: 1 }}
+                    />
+                    <button onClick={handleAddRole} className="btn-glass btn-blue" style={{ fontSize: '12px', padding: '6px 14px' }}>
+                      <Plus style={{ width: '13px', height: '13px' }} />
+                      <span>Add</span>
+                    </button>
+                  </div>
                 </div>
 
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
