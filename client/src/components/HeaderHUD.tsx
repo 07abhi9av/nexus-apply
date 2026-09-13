@@ -586,83 +586,134 @@ export const HeaderHUD: React.FC<HeaderHUDProps> = ({
                   <>
                     <div
                       onClick={() => setIsMenuOpen(false)}
-                      style={{ position: 'fixed', inset: 0, zIndex: 50 }}
+                      style={{ position: 'fixed', inset: 0, zIndex: 9998 }}
                     />
-                    <div
-                      style={{
-                        position: 'absolute',
-                        top: 'calc(100% + 8px)',
-                        right: 0,
-                        width: '240px',
-                        background: 'var(--card-bg)',
-                        backdropFilter: 'blur(30px) saturate(190%)',
-                        border: '1px solid var(--border-subtle)',
-                        borderRadius: '16px',
-                        padding: '12px',
-                        boxShadow: '0 16px 36px rgba(0, 0, 0, 0.28)',
-                        zIndex: 51,
-                        animation: 'fadeIn 0.15s ease',
-                      }}
-                    >
-                      <div style={{ padding: '4px 6px 10px 6px', borderBottom: '1px solid var(--border-subtle)', marginBottom: '8px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '3px' }}>
-                          <span className="radar-beacon" style={{ width: '6px', height: '6px', borderRadius: '50%', background: '#30D158' }} />
-                          <span style={{ fontSize: '11px', fontFamily: 'var(--font-mono)', color: 'var(--accent-green)', fontWeight: 600 }}>
-                            {googleUser?.provider === 'google'
-                              ? 'Google SSO Verified'
-                              : googleUser?.provider === 'email'
-                              ? 'Verified Email · Supabase'
-                              : 'Verified Candidate'}
-                          </span>
-                        </div>
-                        <div style={{ fontSize: '13px', fontWeight: 700, color: 'var(--text-primary)' }}>
-                          {displayName}
-                        </div>
-                        <div style={{ fontSize: '11px', color: 'var(--text-secondary)', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                          {displayEmail}
+                    <div className="dropdown-panel">
+                      {/* User Identity Card */}
+                      <div
+                        style={{
+                          padding: '8px 10px 12px 10px',
+                          borderBottom: '1px solid var(--border-subtle)',
+                          marginBottom: '6px',
+                          display: 'flex',
+                          alignItems: 'center',
+                          gap: '12px',
+                        }}
+                      >
+                        {googleUser?.picture ? (
+                          <img
+                            src={googleUser.picture}
+                            alt={displayName}
+                            style={{
+                              width: '38px',
+                              height: '38px',
+                              borderRadius: '50%',
+                              objectFit: 'cover',
+                              border: '2px solid rgba(255, 255, 255, 0.15)',
+                              flexShrink: 0,
+                              boxShadow: '0 2px 8px rgba(0, 0, 0, 0.25)',
+                            }}
+                            onError={(e) => {
+                              (e.target as HTMLElement).style.display = 'none';
+                            }}
+                          />
+                        ) : (
+                          <div
+                            style={{
+                              width: '38px',
+                              height: '38px',
+                              borderRadius: '50%',
+                              background: 'linear-gradient(135deg, #0A84FF 0%, #0056B3 100%)',
+                              display: 'flex',
+                              alignItems: 'center',
+                              justifyContent: 'center',
+                              fontWeight: 700,
+                              color: '#ffffff',
+                              fontSize: '14px',
+                              flexShrink: 0,
+                              boxShadow: '0 2px 8px rgba(10, 132, 255, 0.35)',
+                            }}
+                          >
+                            {displayName.charAt(0).toUpperCase()}
+                          </div>
+                        )}
+
+                        <div style={{ minWidth: 0, flex: 1 }}>
+                          <div
+                            style={{
+                              fontSize: '13.5px',
+                              fontWeight: 700,
+                              color: 'var(--text-primary)',
+                              overflow: 'hidden',
+                              textOverflow: 'ellipsis',
+                              whiteSpace: 'nowrap',
+                              letterSpacing: '-0.01em',
+                            }}
+                          >
+                            {displayName}
+                          </div>
+                          <div
+                            style={{
+                              fontSize: '11px',
+                              color: 'var(--text-secondary)',
+                              overflow: 'hidden',
+                              textOverflow: 'ellipsis',
+                              whiteSpace: 'nowrap',
+                              marginTop: '1px',
+                            }}
+                            title={displayEmail}
+                          >
+                            {displayEmail}
+                          </div>
+                          <div
+                            style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: '5px',
+                              padding: '2px 8px',
+                              borderRadius: '980px',
+                              background: 'rgba(48, 209, 88, 0.12)',
+                              border: '1px solid rgba(48, 209, 88, 0.25)',
+                              marginTop: '5px',
+                            }}
+                          >
+                            <span style={{ width: '5px', height: '5px', borderRadius: '50%', background: '#30D158' }} />
+                            <span style={{ fontSize: '10px', color: '#30D158', fontWeight: 650 }}>
+                              {googleUser?.provider === 'google'
+                                ? 'Google SSO Verified'
+                                : googleUser?.provider === 'email'
+                                ? 'Verified Email · Supabase'
+                                : 'Verified Candidate'}
+                            </span>
+                          </div>
                         </div>
                       </div>
 
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                      {/* Navigation & Action Items */}
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '2px' }}>
+                        <button
+                          onClick={() => {
+                            setIsMenuOpen(false);
+                            onOpenProfile();
+                          }}
+                          className="dropdown-action-item"
+                        >
+                          <Sliders style={{ width: '15px', height: '15px', color: 'var(--accent-blue)', flexShrink: 0 }} />
+                          <span>Candidate Profile & ATS</span>
+                        </button>
+
                         {onSwitchGoogleAccount && (
                           <button
                             onClick={() => {
                               setIsMenuOpen(false);
                               onSwitchGoogleAccount();
                             }}
-                            className="btn-glass"
-                            style={{
-                              width: '100%',
-                              justifyContent: 'flex-start',
-                              fontSize: '12px',
-                              padding: '7px 10px',
-                              borderRadius: '8px',
-                              border: 'none',
-                            }}
+                            className="dropdown-action-item"
                           >
-                            <RefreshCw style={{ width: '13px', height: '13px', marginRight: '6px' }} />
+                            <RefreshCw style={{ width: '15px', height: '15px', color: 'var(--text-secondary)', flexShrink: 0 }} />
                             <span>Switch Account</span>
                           </button>
                         )}
-
-                        <button
-                          onClick={() => {
-                            setIsMenuOpen(false);
-                            onOpenProfile();
-                          }}
-                          className="btn-glass"
-                          style={{
-                            width: '100%',
-                            justifyContent: 'flex-start',
-                            fontSize: '12px',
-                            padding: '7px 10px',
-                            borderRadius: '8px',
-                            border: 'none',
-                          }}
-                        >
-                          <Sliders style={{ width: '13px', height: '13px', marginRight: '6px' }} />
-                          <span>Candidate Profile</span>
-                        </button>
 
                         {onOpenDevContact && (
                           <button
@@ -670,39 +721,23 @@ export const HeaderHUD: React.FC<HeaderHUDProps> = ({
                               setIsMenuOpen(false);
                               onOpenDevContact();
                             }}
-                            className="btn-glass"
-                            style={{
-                              width: '100%',
-                              justifyContent: 'flex-start',
-                              fontSize: '12px',
-                              padding: '7px 10px',
-                              borderRadius: '8px',
-                              border: 'none',
-                              color: 'var(--accent-blue)',
-                            }}
+                            className="dropdown-action-item"
                           >
-                            <MessageSquare style={{ width: '13px', height: '13px', marginRight: '6px' }} />
+                            <MessageSquare style={{ width: '15px', height: '15px', color: 'var(--accent-purple)', flexShrink: 0 }} />
                             <span>Contact Us & Feedback</span>
                           </button>
                         )}
+
+                        <div style={{ height: '1px', background: 'var(--border-subtle)', margin: '4px 6px' }} />
 
                         <button
                           onClick={() => {
                             setIsMenuOpen(false);
                             onLogout();
                           }}
-                          className="btn-glass"
-                          style={{
-                            width: '100%',
-                            justifyContent: 'flex-start',
-                            fontSize: '12px',
-                            padding: '7px 10px',
-                            borderRadius: '8px',
-                            border: 'none',
-                            color: '#FF453A',
-                          }}
+                          className="dropdown-action-item danger"
                         >
-                          <LogOut style={{ width: '13px', height: '13px', marginRight: '6px' }} />
+                          <LogOut style={{ width: '15px', height: '15px', flexShrink: 0 }} />
                           <span>Sign out</span>
                         </button>
                       </div>
