@@ -576,6 +576,150 @@ h1, h2, h3, h4, h5, h6 {
   color: #FF453A;
 }
 
+/* ================================================================
+   HYPER-SMOOTH VIEW TRANSITIONS & THEME SHOCKWAVE SYSTEM
+   ================================================================ */
+
+/* View Transitions API circular reveal override */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none !important;
+  mix-blend-mode: normal !important;
+}
+
+::view-transition-old(root) {
+  z-index: 1 !important;
+}
+
+::view-transition-new(root) {
+  z-index: 999999 !important;
+}
+
+/* Global ultra-smooth color and surface interpolation during theme shift */
+html.theme-transitioning,
+html.theme-transitioning *,
+html.theme-transitioning *::before,
+html.theme-transitioning *::after {
+  transition: background-color 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+              background 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+              color 0.5s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+              backdrop-filter 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+              -webkit-backdrop-filter 0.65s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  transition-delay: 0s !important;
+}
+
+/* Theme Toggle Button Spring & Kinetic Animations */
+.theme-toggle-btn {
+  position: relative;
+  overflow: visible;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.theme-toggle-btn:hover {
+  transform: translateY(-1.5px) scale(1.05);
+}
+
+.theme-toggle-btn:active {
+  transform: scale(0.92);
+}
+
+.theme-icon-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.theme-toggle-btn:hover .theme-icon-container {
+  transform: rotate(25deg) scale(1.18);
+}
+
+.theme-sun-icon {
+  animation: sunFlareIn 0.55s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.theme-moon-icon {
+  animation: moonOrbitIn 0.55s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes sunFlareIn {
+  0% {
+    transform: rotate(-120deg) scale(0.3);
+    opacity: 0;
+    filter: drop-shadow(0 0 0px #FFD60A);
+  }
+  60% {
+    transform: rotate(15deg) scale(1.25);
+    opacity: 1;
+    filter: drop-shadow(0 0 10px #FFD60A);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+    opacity: 1;
+    filter: drop-shadow(0 0 4px rgba(255, 214, 10, 0.5));
+  }
+}
+
+@keyframes moonOrbitIn {
+  0% {
+    transform: rotate(120deg) scale(0.3);
+    opacity: 0;
+    filter: drop-shadow(0 0 0px #0071E3);
+  }
+  60% {
+    transform: rotate(-15deg) scale(1.25);
+    opacity: 1;
+    filter: drop-shadow(0 0 10px #0071E3);
+  }
+  100% {
+    transform: rotate(0deg) scale(1);
+    opacity: 1;
+    filter: drop-shadow(0 0 4px rgba(0, 113, 227, 0.4));
+  }
+}
+
+/* Ephemeral Luminous Expanding Shockwave Ring */
+.theme-shockwave-sun,
+.theme-shockwave-moon {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  margin-left: -25px;
+  margin-top: -25px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 999998;
+  animation: shockwaveExpand 0.85s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.theme-shockwave-sun {
+  background: radial-gradient(circle, rgba(255, 214, 10, 0.5) 0%, rgba(255, 159, 10, 0.3) 40%, rgba(255, 69, 58, 0.12) 65%, transparent 80%);
+  box-shadow: 0 0 60px 30px rgba(255, 214, 10, 0.35), inset 0 0 30px rgba(255, 255, 255, 0.7);
+  border: 1.5px solid rgba(255, 214, 10, 0.6);
+}
+
+.theme-shockwave-moon {
+  background: radial-gradient(circle, rgba(191, 90, 242, 0.55) 0%, rgba(10, 132, 255, 0.35) 40%, rgba(94, 92, 230, 0.15) 65%, transparent 80%);
+  box-shadow: 0 0 60px 30px rgba(191, 90, 242, 0.35), inset 0 0 30px rgba(10, 132, 255, 0.7);
+  border: 1.5px solid rgba(191, 90, 242, 0.6);
+}
+
+@keyframes shockwaveExpand {
+  0% {
+    transform: scale(0.1);
+    opacity: 1;
+  }
+  65% {
+    opacity: 0.85;
+  }
+  100% {
+    transform: scale(95);
+    opacity: 0;
+  }
+}
+
 
 /* ================================================================
    BADGES

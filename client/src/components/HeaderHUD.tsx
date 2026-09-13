@@ -36,7 +36,7 @@ interface HeaderHUDProps {
   onLogout: () => void;
   onSwitchGoogleAccount?: () => void;
   theme?: 'dark' | 'light';
-  onToggleTheme?: () => void;
+  onToggleTheme?: (event?: React.MouseEvent) => void;
   onGoHome?: () => void;
   onOpenCommandPalette?: () => void;
   onOpenDevContact?: () => void;
@@ -484,8 +484,8 @@ export const HeaderHUD: React.FC<HeaderHUDProps> = ({
 
           {onToggleTheme && (
             <button
-              onClick={onToggleTheme}
-              className="btn-glass"
+              onClick={(e) => onToggleTheme(e)}
+              className="btn-glass theme-toggle-btn"
               style={{
                 padding: '6px 12px',
                 borderRadius: '980px',
@@ -498,18 +498,21 @@ export const HeaderHUD: React.FC<HeaderHUDProps> = ({
                 fontSize: '12px',
                 fontWeight: 600,
                 cursor: 'pointer',
-                transition: 'all 0.2s ease',
               }}
               title={theme === 'dark' ? 'Switch to Apple Light Theme' : 'Switch to Dark Theme'}
             >
               {theme === 'dark' ? (
                 <>
-                  <Sun style={{ width: '13px', height: '13px' }} />
+                  <div className="theme-icon-container theme-sun-icon">
+                    <Sun style={{ width: '13px', height: '13px' }} />
+                  </div>
                   <span>Light</span>
                 </>
               ) : (
                 <>
-                  <Moon style={{ width: '13px', height: '13px' }} />
+                  <div className="theme-icon-container theme-moon-icon">
+                    <Moon style={{ width: '13px', height: '13px' }} />
+                  </div>
                   <span>Dark</span>
                 </>
               )}

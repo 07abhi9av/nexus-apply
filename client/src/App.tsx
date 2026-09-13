@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { flushSync } from 'react-dom';
 import confetti from 'canvas-confetti';
 import { HeaderHUD } from './components/HeaderHUD';
 import { JobPipelineKanban, type CorridorHub } from './components/JobPipelineKanban';
@@ -100,8 +101,99 @@ export const App: React.FC = () => {
     localStorage.setItem('nexus_theme', theme);
   }, [theme]);
 
-  const handleToggleTheme = () => {
-    setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'));
+  const handleToggleTheme = (event?: React.MouseEvent | MouseEvent) => {
+    const nextTheme = theme === 'dark' ? 'light' : 'dark';
+    const x = event?.clientX ?? window.innerWidth / 2;
+    const y = event?.clientY ?? window.innerHeight / 2;
+
+    // 1. Enable global smooth interpolation across all glass cards and tokens
+    document.documentElement.classList.add('theme-transitioning');
+    setTimeout(() => {
+      document.documentElement.classList.remove('theme-transitioning');
+    }, 750);
+
+    // 2. Ephemeral luminous shockwave ripple expanding from the exact click origin
+    try {
+      const shockwave = document.createElement('div');
+      shockwave.className = nextTheme === 'light' ? 'theme-shockwave-sun' : 'theme-shockwave-moon';
+      shockwave.style.left = `${x}px`;
+      shockwave.style.top = `${y}px`;
+      document.body.appendChild(shockwave);
+      setTimeout(() => {
+        if (shockwave.parentNode) {
+          shockwave.parentNode.removeChild(shockwave);
+        }
+      }, 950);
+    } catch (e) {
+      console.warn('Shockwave spawn error', e);
+    }
+
+    // 3. Directional particle starburst (Solar Gold for Light / Celestial Stardust for Dark)
+    try {
+      if (nextTheme === 'light') {
+        confetti({
+          particleCount: 36,
+          spread: 360,
+          startVelocity: 26,
+          ticks: 75,
+          origin: { x: x / window.innerWidth, y: y / window.innerHeight },
+          colors: ['#FFD60A', '#FF9F0A', '#FF453A', '#FFFFFF', '#FFF3B0'],
+          shapes: ['circle', 'square'],
+          scalar: 0.85,
+          disableForReducedMotion: true,
+        });
+      } else {
+        confetti({
+          particleCount: 36,
+          spread: 360,
+          startVelocity: 26,
+          ticks: 75,
+          origin: { x: x / window.innerWidth, y: y / window.innerHeight },
+          colors: ['#BF5AF2', '#0A84FF', '#5E5CE6', '#64D2FF', '#EBEBF5'],
+          shapes: ['circle', 'square'],
+          scalar: 0.85,
+          disableForReducedMotion: true,
+        });
+      }
+    } catch (e) {
+      console.warn('Confetti error', e);
+    }
+
+    // 4. View Transitions API circular reveal
+    if (typeof document !== 'undefined' && 'startViewTransition' in document) {
+      const endRadius = Math.hypot(
+        Math.max(x, window.innerWidth - x),
+        Math.max(y, window.innerHeight - y)
+      );
+
+      const transition = (document as any).startViewTransition(() => {
+        flushSync(() => {
+          setTheme(nextTheme);
+        });
+        document.documentElement.setAttribute('data-theme', nextTheme);
+      });
+
+      transition.ready.then(() => {
+        const clipPath = [
+          `circle(0px at ${x}px ${y}px)`,
+          `circle(${endRadius}px at ${x}px ${y}px)`,
+        ];
+        document.documentElement.animate(
+          {
+            clipPath: clipPath,
+          },
+          {
+            duration: 650,
+            easing: 'cubic-bezier(0.22, 1, 0.36, 1)',
+            pseudoElement: '::view-transition-new(root)',
+          }
+        );
+      }).catch(() => {
+        setTheme(nextTheme);
+      });
+    } else {
+      setTheme(nextTheme);
+    }
   };
 
   const [_stats, setStats] = useState<AppStats | null>(null);
