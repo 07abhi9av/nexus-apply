@@ -1,0 +1,604 @@
+[
+  {
+    "id": "res-1",
+    "title": "A to Z Placement Kit",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/AtoZ-Placement-Kit",
+    "description": "Official preparation material for A to Z Placement Kit. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-2",
+    "title": "Placement Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Placement Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-3",
+    "title": "Aptitude Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Aptitude Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-4",
+    "title": "DSA Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/dsa-roadmap/",
+    "description": "Official preparation material for DSA Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-5",
+    "title": "System Design Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/system-design/",
+    "description": "Official preparation material for System Design Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-6",
+    "title": "JavaScript Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for JavaScript Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-7",
+    "title": "ReactJS Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for ReactJS Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-8",
+    "title": "Backend Development Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Backend Development Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-9",
+    "title": "DevOps Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for DevOps Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-10",
+    "title": "Machine Learning Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Machine Learning Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-11",
+    "title": "AI Engineer Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for AI Engineer Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-12",
+    "title": "Cybersecurity Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Cybersecurity Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-13",
+    "title": "Product Management Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Product Management Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-14",
+    "title": "Java Developer Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Java Developer Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-15",
+    "title": "LLMs Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for LLMs Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-16",
+    "title": "MCP Roadmap",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for MCP Roadmap. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-17",
+    "title": "ATS Friendly Resume Templates",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for ATS Friendly Resume Templates. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-18",
+    "title": "Cold Email & Referral Templates",
+    "category": "Resume & LinkedIn",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Cold Email & Referral Templates. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-19",
+    "title": "Resume Optimizer",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Resume Optimizer. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-20",
+    "title": "LinkedIn Optimizer",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for LinkedIn Optimizer. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-21",
+    "title": "Cover Letter AI",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Cover Letter AI. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-22",
+    "title": "Job Ready Score",
+    "category": "Resume & LinkedIn",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Job Ready Score. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-23",
+    "title": "AI Job Finder",
+    "category": "Resume & LinkedIn",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for AI Job Finder. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-24",
+    "title": "Mock Interview Tool",
+    "category": "Resume & LinkedIn",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Mock Interview Tool. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-25",
+    "title": "Free ATS Score Checker",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Free ATS Score Checker. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-26",
+    "title": "Resume Optimization Tool",
+    "category": "Resume & Profile Tools",
+    "url": "https://www.lets-code.co.in/",
+    "description": "Official preparation material for Resume Optimization Tool. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-27",
+    "title": "Interview Preparation",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/interviewquestions/",
+    "description": "Official preparation material for Interview Preparation. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-28",
+    "title": "OOPs Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/opps-interview-questions/",
+    "description": "Official preparation material for OOPs Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-29",
+    "title": "DBMS Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/dbms-interview-questions/",
+    "description": "Official preparation material for DBMS Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-30",
+    "title": "Operating System Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/operating-system-interview-questions/",
+    "description": "Official preparation material for Operating System Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-31",
+    "title": "Computer Network Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/computer-network-interview-questions/",
+    "description": "Official preparation material for Computer Network Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-32",
+    "title": "SQL Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/sql-interview-questions/",
+    "description": "Official preparation material for SQL Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-33",
+    "title": "JavaScript Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/javascript-interview-questions/",
+    "description": "Official preparation material for JavaScript Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-34",
+    "title": "React JS Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/react-js-interview-questions/",
+    "description": "Official preparation material for React JS Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-35",
+    "title": "Python Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/python-interview-questions/",
+    "description": "Official preparation material for Python Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-36",
+    "title": "Spring Boot Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/spring-boot-interview-questions/",
+    "description": "Official preparation material for Spring Boot Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-37",
+    "title": "Core Java Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/core-java-interview-questions/",
+    "description": "Official preparation material for Core Java Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-38",
+    "title": "Java Full Stack Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/java-full-stack-interview-questions/",
+    "description": "Official preparation material for Java Full Stack Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-39",
+    "title": "Data Engineering Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/data-engineering-interview-questions/",
+    "description": "Official preparation material for Data Engineering Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-40",
+    "title": "Frontend Developer Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/frontend-developer-interview-questions/",
+    "description": "Official preparation material for Frontend Developer Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-41",
+    "title": "HR Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/hr-interview-questions/",
+    "description": "Official preparation material for HR Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-42",
+    "title": "MERN Stack Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/mern-stack-interview-questions/",
+    "description": "Official preparation material for MERN Stack Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-43",
+    "title": "Cloud Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/cloud-interview-questions/",
+    "description": "Official preparation material for Cloud Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-44",
+    "title": "DevOps Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/devops-interview-questions/",
+    "description": "Official preparation material for DevOps Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-45",
+    "title": "Data Science Interview Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/data-science-interview-questions/",
+    "description": "Official preparation material for Data Science Interview Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-46",
+    "title": "LeetCode Top 150 Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/interview/leetcode-top-interview-150-questions/",
+    "description": "Official preparation material for LeetCode Top 150 Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-47",
+    "title": "Previous Year Questions (PYQs)",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Previous Year Questions (PYQs). Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-48",
+    "title": "TCS PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/tcspyq/",
+    "description": "Official preparation material for TCS PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-49",
+    "title": "TCS NQT Aptitude Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for TCS NQT Aptitude Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-50",
+    "title": "Cognizant Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Cognizant Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-51",
+    "title": "Wipro Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Wipro Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-52",
+    "title": "IBM Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for IBM Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-53",
+    "title": "Accenture Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Accenture Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-54",
+    "title": "Capgemini Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Capgemini Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-55",
+    "title": "Virtusa Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Virtusa Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-56",
+    "title": "Flipkart Grid Coding Questions",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Flipkart Grid Coding Questions. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-57",
+    "title": "Juspay Hiring Challenge 2025",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Juspay Hiring Challenge 2025. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-58",
+    "title": "Infosys SP & DSE PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Infosys SP & DSE PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-59",
+    "title": "De Shaw PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for De Shaw PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-60",
+    "title": "EPAM PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for EPAM PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-61",
+    "title": "Amazon ML Summer School PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Amazon ML Summer School PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-62",
+    "title": "TCS CodeVita PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for TCS CodeVita PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-63",
+    "title": "Oracle PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Oracle PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-64",
+    "title": "Microsoft PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Microsoft PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-65",
+    "title": "Amazon PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Amazon PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-66",
+    "title": "Deloitte PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Deloitte PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-67",
+    "title": "Cisco PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Cisco PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-68",
+    "title": "Larsen & Toubro PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for Larsen & Toubro PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-69",
+    "title": "HCL PYQs",
+    "category": "Company PYQs",
+    "url": "https://www.lets-code.co.in/previousyearcodingquestion/pyqs/",
+    "description": "Official preparation material for HCL PYQs. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-70",
+    "title": "Learning Resources",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/resources/",
+    "description": "Official preparation material for Learning Resources. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-71",
+    "title": "Free Placement Material Drive",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Free Placement Material Drive. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-72",
+    "title": "Awesome GitHub Repositories",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Awesome GitHub Repositories. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-73",
+    "title": "Awesome YouTube Playlists",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Awesome YouTube Playlists. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-74",
+    "title": "Official Documentation Lists",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Official Documentation Lists. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-75",
+    "title": "Final Year Projects with Source Code",
+    "category": "Study Notes",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for Final Year Projects with Source Code. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-76",
+    "title": "LeetCode Resources",
+    "category": "Interview Questions",
+    "url": "https://www.lets-code.co.in/articles/roadmap/",
+    "description": "Official preparation material for LeetCode Resources. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-77",
+    "title": "Blogs & Career Guides",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/",
+    "description": "Official preparation material for Blogs & Career Guides. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-78",
+    "title": "2025 Tech Hiring Calendar",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/2025-tech-hiring-calendar-month-by-month-guide-to-internships-job-openings/",
+    "description": "Official preparation material for 2025 Tech Hiring Calendar. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-79",
+    "title": "10+ LPA Fresher Guide",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/how-to-get-a-10-lpa-job-as-a-fresher-from-a-tier-3-college/",
+    "description": "Official preparation material for 10+ LPA Fresher Guide. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-80",
+    "title": "Complete BTech CSE Engineering Kit",
+    "category": "Roadmaps",
+    "url": "https://www.lets-code.co.in/blogs/the-complete-btech-cse-engineering-kit-from-first-semester-to-your-first-job/",
+    "description": "Official preparation material for Complete BTech CSE Engineering Kit. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-81",
+    "title": "GSoC 2026 Guide",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/complete-guide-to-google-summer-of-code-gsoc-2026/",
+    "description": "Official preparation material for GSoC 2026 Guide. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-82",
+    "title": "GitHub Student Pack Guide",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/github-education-student-pack-a-complete-guide-for-students/",
+    "description": "Official preparation material for GitHub Student Pack Guide. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-83",
+    "title": "Hacktoberfest Beginner Repositories",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/hacktoberfest-beginner-friendly-repositories-find-and-contribute-to-open-source-projects/",
+    "description": "Official preparation material for Hacktoberfest Beginner Repositories. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-84",
+    "title": "How to Build AI Agents",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/how-to-build-ai-agents-step-by-step-roadmap-with-tools-projects/",
+    "description": "Official preparation material for How to Build AI Agents. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-85",
+    "title": "Crack Google Interview Guide",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/crack-the-google-interview-in-2025-your-complete-preparation-guide/",
+    "description": "Official preparation material for Crack Google Interview Guide. Direct access to curated guides and problem sets."
+  },
+  {
+    "id": "res-86",
+    "title": "Remote First Companies Hiring Guide",
+    "category": "Guides & Articles",
+    "url": "https://www.lets-code.co.in/blogs/from-cheap-labor-to-global-talent-how-to-get-hired-by-remote-first-companies/",
+    "description": "Official preparation material for Remote First Companies Hiring Guide. Direct access to curated guides and problem sets."
+  }
+]

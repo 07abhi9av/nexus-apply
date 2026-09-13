@@ -1,0 +1,2442 @@
+[
+  {
+    "name": "Google",
+    "package": "\u20b925\u201340 LPA",
+    "roles": "Software Engineer, SWE Intern",
+    "portal": "https://careers.google.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Microsoft",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Software Engineer, Product Roles",
+    "portal": "https://apply.careers.microsoft.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Uber",
+    "package": "\u20b918\u201324 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.uber.com/in/en/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Atlassian",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Graduate Software Engineer",
+    "portal": "https://www.atlassian.com/company/careers",
+    "location": "Koramangala, Bangalore",
+    "sector": "SaaS / Collaboration",
+    "workModel": "Fully Remote / TEAM Anywhere",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Amazon",
+    "package": "\u20b918\u201326 LPA",
+    "roles": "SDE-1",
+    "portal": "https://www.amazon.jobs/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Goldman Sachs",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Engineering Analyst",
+    "portal": "https://www.goldmansachs.com/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Flipkart",
+    "package": "\u20b920\u201328 LPA",
+    "roles": "SDE-1",
+    "portal": "https://www.flipkartcareers.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "DE Shaw",
+    "package": "\u20b925\u201340 LPA",
+    "roles": "Associate, Software Developer",
+    "portal": "https://www.deshawindia.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Rubrik",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.rubrik.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Salesforce",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Associate Technical Consultant",
+    "portal": "https://careers.salesforce.com/en/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Adobe",
+    "package": "\u20b922\u201335 LPA",
+    "roles": "MTS, Software Engineer",
+    "portal": "https://careers.adobe.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "ServiceNow",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.servicenow.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Intuit",
+    "package": "\u20b920\u201332 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://jobs.intuit.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Walmart Global Tech",
+    "package": "\u20b918\u201326 LPA",
+    "roles": "Grad Software Engineer",
+    "portal": "https://careers.walmart.com/technology",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "NVIDIA",
+    "package": "\u20b920\u201345 LPA",
+    "roles": "Software Engineer, AI Engineer",
+    "portal": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Qualcomm",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Associate Engineer",
+    "portal": "https://www.qualcomm.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Tower Research Capital",
+    "package": "\u20b935\u201360 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.tower-research.com/open-positions/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Media.net",
+    "package": "\u20b920\u201340 LPA",
+    "roles": "Software Developer",
+    "portal": "https://careers.media.net/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Cisco",
+    "package": "\u20b918\u201324 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://jobs.cisco.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Arcesium",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Analyst, Software Engineer",
+    "portal": "https://www.arcesium.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Apple",
+    "package": "\u20b920\u201345 LPA",
+    "roles": "Software Engineer, AIML",
+    "portal": "https://jobs.apple.com/en-in/search",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Airbnb",
+    "package": "\u20b925\u201345 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.airbnb.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Stripe",
+    "package": "\u20b925\u201350 LPA",
+    "roles": "New Grad Software Engineer",
+    "portal": "https://stripe.com/jobs",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Coinbase",
+    "package": "\u20b925\u201345 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.coinbase.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Databricks",
+    "package": "\u20b925\u201350 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.databricks.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Snowflake",
+    "package": "\u20b925\u201345 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.snowflake.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "LinkedIn",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.linkedin.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Oracle",
+    "package": "\u20b918\u201330 LPA",
+    "roles": "Applications Engineer",
+    "portal": "https://careers.oracle.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "SAP Labs",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Developer Associate",
+    "portal": "https://jobs.sap.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "VMware",
+    "package": "\u20b918\u201330 LPA",
+    "roles": "MTS, Software Engineer",
+    "portal": "https://www.broadcom.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "PayPal",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.pypl.com/home/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Visa",
+    "package": "\u20b918\u201325 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://visa.wd5.myworkdayjobs.com/Visa",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "American Express",
+    "package": "\u20b918\u201325 LPA",
+    "roles": "Engineer I",
+    "portal": "https://aexp.eightfold.ai/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "JP Morgan Chase",
+    "package": "\u20b919\u201330 LPA",
+    "roles": "Software Engineer Program",
+    "portal": "https://careers.jpmorgan.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Morgan Stanley",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Technology Analyst",
+    "portal": "https://www.morganstanley.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Sprinklr",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Product Engineer",
+    "portal": "https://www.sprinklr.com/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "BrowserStack",
+    "package": "\u20b920\u201340 LPA",
+    "roles": "SDET, Software Engineer",
+    "portal": "https://www.browserstack.com/careers",
+    "location": "Indiranagar",
+    "sector": "Testing SaaS",
+    "workModel": "Remote-Friendly",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Postman",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.postman.com/careers/",
+    "location": "Koramangala, Bangalore",
+    "sector": "API Platform",
+    "workModel": "Remote-First",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Zeta",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Software Development Engineer",
+    "portal": "https://www.zeta.tech/in/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Razorpay",
+    "package": "\u20b918\u201330 LPA",
+    "roles": "SDE-1",
+    "portal": "https://razorpay.com/careers/",
+    "location": "Koramangala, Bangalore",
+    "sector": "FinTech",
+    "workModel": "Hybrid (Flexible)",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Cred",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Backend Engineer",
+    "portal": "https://careers.cred.club/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Meesho",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.meesho.io/jobs",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Swiggy",
+    "package": "\u20b918\u201330 LPA",
+    "roles": "SDE",
+    "portal": "https://careers.swiggy.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Zepto",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.zeptonow.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Rippling",
+    "package": "\u20b925\u201345 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.rippling.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://jobs.paloaltonetworks.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Nutanix",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Member Technical Staff",
+    "portal": "https://www.nutanix.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Harness",
+    "package": "\u20b920\u201340 LPA",
+    "roles": "Backend Engineer",
+    "portal": "https://www.harness.io/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Yugabyte",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.yugabyte.com/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Cohesity",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.cohesity.com/company/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Pure Storage",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.purestorage.com/company/careers.html",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Observe.AI",
+    "package": "\u20b920\u201330 LPA",
+    "roles": "Full Stack Engineer",
+    "portal": "https://www.observe.ai/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "InMobi",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.inmobi.com/company/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "ShareChat",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Backend Engineer",
+    "portal": "https://sharechat.com/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Gojek",
+    "package": "\u20b920\u201340 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.gojek.io/careers",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Expedia Group",
+    "package": "\u20b918\u201328 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careers.expediagroup.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Agoda",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://careersatagoda.com/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Twilio",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.twilio.com/company/jobs",
+    "location": "Remote (Bangalore)",
+    "sector": "CPaaS / SaaS",
+    "workModel": "Remote / Hybrid",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Redis",
+    "package": "\u20b920\u201335 LPA",
+    "roles": "Graduate Engineer",
+    "portal": "https://redis.com/company/careers/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Cloudflare",
+    "package": "\u20b920\u201340 LPA",
+    "roles": "Software Engineer",
+    "portal": "https://www.cloudflare.com/careers/jobs/",
+    "location": "Bengaluru, India / Hybrid",
+    "sector": "Tier-1 Product & FinTech",
+    "workModel": "Hybrid / Remote",
+    "source": "Tier-1 Top Payers"
+  },
+  {
+    "name": "Hasura",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, DevRel, ML Engineer",
+    "portal": "https://hasura.io/careers",
+    "location": "Indiranagar, Bangalore",
+    "sector": "Developer Tools",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Toptal",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Designer, PM, Finance",
+    "portal": "https://www.toptal.com/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Freelance Platform",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "GitLab",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, SRE, Product Manager",
+    "portal": "https://about.gitlab.com/jobs/",
+    "location": "Remote (All-remote company)",
+    "sector": "DevOps / SaaS",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Turing",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data Engineer, ML",
+    "portal": "https://www.turing.com/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Remote Dev Platform",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "EPAM Systems",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, DevOps, Cloud Engineer",
+    "portal": "https://www.epam.com/careers",
+    "location": "Bangalore / Hyderabad",
+    "sector": "IT Consulting",
+    "workModel": "Remote / Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "ThoughtWorks",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, QA, BA, Data Engineer",
+    "portal": "https://www.thoughtworks.com/careers",
+    "location": "Koramangala, Bangalore",
+    "sector": "IT Consulting",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Freshworks",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, QA, PM, DevOps",
+    "portal": "https://www.freshworks.com/careers/",
+    "location": "Koramangala, Bangalore",
+    "sector": "SaaS",
+    "workModel": "Hybrid (3 days office)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Zoho",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, QA, Support",
+    "portal": "https://www.zoho.com/careers/",
+    "location": "Whitefield, Bangalore",
+    "sector": "SaaS",
+    "workModel": "Remote-Friendly",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Google India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, UX, Cloud Consultant",
+    "portal": "https://careers.google.com/",
+    "location": "Bellandur, Bangalore",
+    "sector": "Product / Search",
+    "workModel": "Hybrid (3 days)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Microsoft India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, PM, Data Scientist",
+    "portal": "https://careers.microsoft.com/",
+    "location": "Koramangala, Bangalore",
+    "sector": "Product / Cloud",
+    "workModel": "Hybrid (Flexible)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Amazon India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Solutions Architect",
+    "portal": "https://www.amazon.jobs/en/",
+    "location": "Bellandur, Bangalore",
+    "sector": "E-commerce / Cloud",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Cisco India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Network Engineer",
+    "portal": "https://www.cisco.com/c/en_in/about/careers.html",
+    "location": "Cessna Business Park",
+    "sector": "Networking",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Infosys",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, DevOps, Cloud",
+    "portal": "https://www.infosys.com/careers/",
+    "location": "Electronic City",
+    "sector": "IT Services",
+    "workModel": "Hybrid (WFA Model)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Cognizant",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data Analyst, QA",
+    "portal": "https://careers.cognizant.com/",
+    "location": "Whitefield, Bangalore",
+    "sector": "IT Services",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Wipro",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Cloud, Cyber",
+    "portal": "https://careers.wipro.com/",
+    "location": "Sarjapur Road",
+    "sector": "IT Services",
+    "workModel": "Hybrid (Remote roles)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Salesforce India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Admin, Consultant",
+    "portal": "https://www.salesforce.com/in/company/careers/",
+    "location": "Prestige Tech Park",
+    "sector": "SaaS / CRM",
+    "workModel": "Hybrid / Flex",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "VMware (Broadcom)",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, SRE, Cloud Engineer",
+    "portal": "https://www.vmware.com/careers.html",
+    "location": "Kadubeesanahalli",
+    "sector": "Virtualization",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Intuit India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data, Product",
+    "portal": "https://www.intuit.com/careers/",
+    "location": "Pritech Park",
+    "sector": "FinTech / SaaS",
+    "workModel": "Hybrid (Flexible)",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Zerodha",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "Developer, Support, Systems",
+    "portal": "https://zerodha.com/careers",
+    "location": "JP Nagar (Mostly Remote)",
+    "sector": "FinTech / Trading",
+    "workModel": "Remote-First",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "CrowdStrike",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Threat Analyst, SRE",
+    "portal": "https://www.crowdstrike.com/careers/",
+    "location": "Remote (Bangalore)",
+    "sector": "Cybersecurity",
+    "workModel": "Remote-First",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Canonical",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, DevOps, QA",
+    "portal": "https://canonical.com/careers",
+    "location": "Remote (Global)",
+    "sector": "Open Source / Ubuntu",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Automattic",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Designer, Support",
+    "portal": "https://automattic.com/work-with-us/",
+    "location": "Remote (Global)",
+    "sector": "WordPress / Web",
+    "workModel": "Fully Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Coinbase India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Security, Data",
+    "portal": "https://www.coinbase.com/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Crypto / FinTech",
+    "workModel": "Remote-First",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Stripe India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Infrastructure Eng.",
+    "portal": "https://stripe.com/jobs",
+    "location": "Remote (Bangalore)",
+    "sector": "FinTech / Payments",
+    "workModel": "Remote / Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Notion",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Designer, Marketing",
+    "portal": "https://www.notion.so/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Productivity / SaaS",
+    "workModel": "Remote-Friendly",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Skit.ai",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "ML Engineer, SDE, NLP",
+    "portal": "https://skit.ai/careers",
+    "location": "Koramangala",
+    "sector": "AI / Voice",
+    "workModel": "Remote / Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "CleverTap",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data, Product",
+    "portal": "https://www.clevertap.com/careers/",
+    "location": "Koramangala",
+    "sector": "SaaS / Engagement",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Chargebee",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Product, Support",
+    "portal": "https://www.chargebee.com/careers/",
+    "location": "Remote (Chennai/BLR)",
+    "sector": "SaaS / Billing",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "MoEngage",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data, Product",
+    "portal": "https://www.moengage.com/careers/",
+    "location": "Koramangala",
+    "sector": "SaaS / Marketing",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "LeadSquared",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, QA, Support",
+    "portal": "https://www.leadsquared.com/careers/",
+    "location": "Koramangala",
+    "sector": "SaaS / CRM",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Roblox India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Computer Vision",
+    "portal": "https://careers.roblox.com/",
+    "location": "Remote (Bangalore)",
+    "sector": "Gaming",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Motive (India)",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Computer Vision, ML",
+    "portal": "https://www.gomotive.com/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Fleet Tech / IoT",
+    "workModel": "Remote-First",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Sprinklr India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data, Product",
+    "portal": "https://www.sprinklr.com/careers/",
+    "location": "Whitefield, Bangalore",
+    "sector": "SaaS / CXM",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "ServiceNow India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Cloud, QA",
+    "portal": "https://www.servicenow.com/careers.html",
+    "location": "Prestige Tech Park",
+    "sector": "SaaS / ITSM",
+    "workModel": "Hybrid",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Databricks India",
+    "package": "\u20b918\u201335 LPA",
+    "roles": "SDE, Data Engineer, ML",
+    "portal": "https://www.databricks.com/company/careers",
+    "location": "Remote (Bangalore)",
+    "sector": "Data & AI",
+    "workModel": "Hybrid / Remote",
+    "source": "Bangalore & Remote Startups"
+  },
+  {
+    "name": "Abacus Insights",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://abacusinsights.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Akasha",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://hack.akasha.org/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Alley Interactive",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://alley.co/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Anrok",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.anrok.com/careers#open-roles",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Apollo",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.apollo.io/company/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Appfire",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://appfire.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Argyle",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://argyle.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Art & Logic",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://artandlogic.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "AssemblyAI",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.assemblyai.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Astropad",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://astropad.com/about/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Awesome Motive",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://awesomemotive.com/career/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Best Practical",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://bestpractical.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Bevy Labs",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.bevy.com/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Blumira",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.blumira.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Boldly",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://boldly.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "BookingSync",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.bookingsync.com/en/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Brave",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://brave.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Breeze Church",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.breezechms.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Bulb",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://angel.co/company/bulb-software/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Cabana Blockchain",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://cabanablockchain.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Campfire",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.campfirelabs.co/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Canny",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.canny.io/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "CartKit",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.notion.so/Work-at-CartKit-b14d5aef3bae4061a9e3d7727e5cc471#1578125408d4478f84d9959139836164",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Chartmetric",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://chartmetric.com/aboutus",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Chatbot",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.chatbotpack.com/chatbot-jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Chromatic",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://chromatichq.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Civic Actions",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://civicactions.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Clipboard Health",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.ashbyhq.com/clipboard?utm_source=careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Cloudtalk",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.cloudtalk.io/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Companies",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.google.com/search?q=Companies+careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Continu",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.continu.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Cookly",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://careers.cookly.me/open-positions",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Corelight",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://corelight.com/company/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Counlty",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.linkedin.com/company/countly/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "CryptoKitties",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.cryptokitties.co/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Cycloid",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.cycloid.io/join-us",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Cypress",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.cypress.io/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Daily Kos (Kos Media)",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.dailykos.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Data Automation",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://dataautomation.com/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Design Pickle",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://designpickle.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Deskpro",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.deskpro.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "DialUp",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://dialup.com/about",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "DNSfilter",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.dnsfilter.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "DNSimple",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://dnsimple.com/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Dozuki",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.dozuki.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "DuckDuckGo",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://duckduckgo.com/hiring/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Earnest",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.earnest.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Elevar",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.getelevar.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Enigma",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://boards.greenhouse.io/enigmaio",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Eon",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://job-boards.eu.greenhouse.io/eonio",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Epic Industries",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "http://www.epicindustries.co.uk/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Fetch&Funnel",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.fetchfunnel.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Fieldguide",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.fieldguide.io/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Files",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.files.com/jobs/now-hiring/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Firstbase",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.firstbase.io/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Float",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.float.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "FormAssembly",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://apply.workable.com/formassembly/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "GetResponse",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://apply.workable.com/getresponse/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Gitbook",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.gitbook.com/about#open-roles",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Going",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.going.com/careers#OP",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Graphy App",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.notion.so/Graphy-Careers-e2e39a1719b343928be38d7c85ab1b31",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Gravity Forms",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.gravityforms.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Growth Machine",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.growthmachine.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Heaps Digital Ventures",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.heapsdigitalventures.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Hippo Education",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://angel.co/company/hippo-education/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Hiring remote workers? We can help! Check us out on :",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.google.com/search?q=Hiring remote workers? We can help! Check us out on :+careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Hospital IQ",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.hospiq.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Hubstaff",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://hubstaff.com/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Huntress",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.huntress.com/company/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Igalia",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.igalia.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Infinity Software Development",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.infinity-software.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Inpsyde",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://inpsyde.com/en/remote-jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Input Logic",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "http://inputlogic.ca/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Input Output",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://iohk.io/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "InterDax",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.interdax.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Intuition Machines",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://hcaptcha.zohorecruit.com/jobs/Careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Invisible Technologies",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.breezy.hr/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Kalepa Insurance",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://kalepainsurance.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Knock Homes",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.knock.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Knowde",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.knowde.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Ko-fi",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://more.ko-fi.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Last Call Media",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://lastcallmedia.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Latchel",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://latchel.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "LegalNature",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.legalnature.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Level12",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.level12.io/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "LexBlog",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.lexblog.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "MarsBased",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://marsbased.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "MedStack",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://medstack.co/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Meet Edgar",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://meetedgar.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Metronome",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://metronome.com/company/careers#positions",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "MKG Marketing",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://mkgmarketinginc.com/about/jobs/#positions",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Modern Tribe",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://tri.be/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Netdata Inc.",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://careers.netdata.cloud/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Nightwatch",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://nightwatch.io/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Nova Credit",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.novacredit.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Nutrient",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.nutrient.io/company/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Nylas",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.nylas.com/company/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Octopus Deploy",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://octopus.com/company/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Oddball",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://oddball.io/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "OhmConnect",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.ohmconnect.com/about-us/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "OhMD",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.ohmd.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Olio",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://olioex.com/join-our-team/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Oomnitza",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.oomnitza.com/careers/open-positions/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "OnceHub",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.oncehub.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "OnTheGoSystems",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.onthegosystems.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Open Collective",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://opencollective.com/hiring",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Open Law Lab",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "http://www.openlawlib.org/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Parabol",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.parabol.co/join",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Parknav",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://parknav.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Pelcro",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.pelcro.com/en/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Perfect Keto",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://perfectketo.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Pexels",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://wellfound.com/company/pexels/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Ping Marketing",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://wellfound.com/company/ping-marketing-1/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Platform.sh",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://platform.sh/company/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Playco",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.lever.co/playco",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "PocketSuite",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://wellfound.com/company/pocketsuite/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Prifina",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.prifina.com/join-our-team.html",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Pro-tip: Looking for a remote job? We run webinars on \"3 key mistakes to avoid when looking for a remote startup job\" \u27a1\ufe0f\u27a1\ufe0f",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.google.com/search?q=Pro-tip: Looking for a remote job? We run webinars on \"3 key mistakes to avoid when looking for a remote startup job\" \u27a1\ufe0f\u27a1\ufe0f+careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Prolific",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.prolific.co/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Prospect",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://tryprospect.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Pubstack",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.welcometothejungle.com/en/companies/pubstack-io",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Pulumi",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.pulumi.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Ranker",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://blog.ranker.com/jobs?ref=foot",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Reaktiv Studios",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://reaktivstudios.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Reedsy",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://angel.co/reedsy/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Replicate",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://replicate.com/about#join-us",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Rho AI",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://rhoimpact.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Roadtrippers",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.roadtrippers.com/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Rocket Chat",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://jobs.rocket.chat/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "RocketAir",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.rocketair.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Rotunda Software",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://apply.workable.com/rotunda-software",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Routable",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://apply.workable.com/routable/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "SafeGraph",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.safegraph.com/careers#open-positions",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Sahara AI",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://saharalabs.ai/community/career",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Screenly",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://apply.workable.com/screenly/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Semaphore",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://semaphoreci.com/hiring",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Semrush",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://careers.semrush.com/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "ShrineDev",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://shrinedev.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Sked Social",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://skedsocial.com/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Socket",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://socket.dev/careers#open-roles",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Sortly",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://sortly-inc.breezy.hr/?",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Staffcloud",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.staff.cloud/en/about#jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "StrongDM",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.strongdm.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "TalkJS",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://talkjs.com/jobs/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Thatch",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://thatch.ai/jobs",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Tomedes",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.tomedes.com/careers",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Upbound",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.upbound.io/careers#working-with-us",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "UpMetrics",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://www.upmetrics.com/careers.html",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  },
+  {
+    "name": "Veridian",
+    "package": "k - k (Remote Global)",
+    "roles": "Remote Software / DevOps Engineer",
+    "portal": "https://veridian.info/careers/",
+    "location": "100% Fully Remote (Global)",
+    "sector": "Remote Tech & Cloud",
+    "workModel": "Fully Remote",
+    "source": "Remotive Global"
+  }
+]

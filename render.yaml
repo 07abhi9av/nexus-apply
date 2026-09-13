@@ -1,0 +1,29 @@
+services:
+  # ================================================================
+  # in.gress Full-Stack Monolith on Render (100% Free Tier)
+  # Serves the Node compute backend at /api/* and SPA at /*
+  # ================================================================
+  - type: web
+    name: ingress-platform
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: CORS_ORIGIN
+        value: '*'
+      - key: ENABLE_AUTO_SYNC
+        value: 'true'
+      - key: SYNC_INTERVAL_HOURS
+        value: '12'
+      - key: VITE_SUPABASE_URL
+        value: https://afmjxmvcreoivyqnfhvv.supabase.co
+      - key: VITE_SUPABASE_ANON_KEY
+        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFmbWp4bXZjcmVvaXZ5cW5maHZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkyMTA0NDQsImV4cCI6MjEwNDc4NjQ0NH0.3wrIAhl6j0Ww6s2i5JAYfSdMHJ5RgPiOJMa-Jh35zZE

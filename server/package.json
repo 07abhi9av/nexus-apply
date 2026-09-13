@@ -1,0 +1,34 @@
+{
+  "name": "nexus-apply-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "sync:jobs": "tsx src/scripts/syncJobs.ts"
+  },
+  "dependencies": {
+    "compression": "^1.8.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^8.3.0",
+    "multer": "^2.3.0",
+    "nodemailer": "^10.0.3",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/multer": "^2.2.0",
+    "@types/node": "^22.13.4",
+    "@types/nodemailer": "^8.0.1",
+    "@types/pdf-parse": "^1.1.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
